@@ -1,0 +1,6 @@
+Paragraph Analysis
+------------------
+Approximate Word Count 122
+Approximate Sentence Count 5
+Average letters in a word 4.532786885245901
+Average words in a sentence 24.4
